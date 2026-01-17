@@ -8,14 +8,11 @@ I engineer intelligent systems that combine **Deep Learning**, **Graph Theory**,
 
  🚀 Core Competencies
 
-| Domain | Tech Stack |
 
-| :--- | :--- |
+**AI & NLP** - TensorFlow (Keras), LSTM, Word Embeddings, Tokenization 
 
-| **AI & NLP** | TensorFlow (Keras), LSTM, Word Embeddings, Tokenization |
+**Agent Logic** - **Graph Theory (NetworkX)**, Centrality Algorithms, State Machines 
 
-| **Agent Logic** | **Graph Theory (NetworkX)**, Centrality Algorithms, State Machines |
+**Data Science** - Pandas, Scikit-Learn, Random Forest, Anomaly Detection 
 
-| **Data Science** | Pandas, Scikit-Learn, Random Forest, Anomaly Detection |
-
-| **Automation** | Python Scripting, API Integration, Data Pipelines |
+**Automation** - Python Scripting, API Integration, Data Pipelines 
